@@ -1,0 +1,100 @@
+.title-img{
+    width:194px;
+    height: 81px;
+}
+.navbar {
+    margin-bottom: 50px;
+    border-radius: 25px;
+}
+.navbar-nav .nav-button{
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    padding: 10px 20px;
+    display: block;
+    border-radius: 10px;
+    transition: background-color 0.3s ease;
+}
+.navbar-nav .nav-button:hover {
+    background-color: #F4CB38;
+}
+
+.navbar-nav .nav-text{
+    text-decoration: none;
+    padding: 10px 20px;
+    display: block;
+    border-radius: 10px;
+    transition: background-color 0.3s ease;
+    margin-left: 50px;
+    font-family: "Mona-Sans";
+    font-weight: 700;
+    font-size: 26px;
+}
+.header {
+    font-size: 10rem;
+    font-family: "Hubot-Sans";
+    font-weight: 900;
+}
+.subheader {
+    font-size: 2REM;
+}
+.header-button {
+    background-color: #FF415B ;
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    display: block;
+    border-radius: 10px;
+    transition: background-color 0.3s ease;
+    border-color: white;
+    margin-bottom: 20px;
+}
+.header-button:hover {
+    background-color: #F4CB38;
+    color: black;
+}
+.gallery-1{
+    width:281px;
+    height:374px;
+
+}
+.numbers-text{
+    font-family: "hubot-sans";
+    font-weight: 900;
+    font-size: 252.22px;
+    line-height: 224.48px;
+    color: #F4F1EA;
+}
+.numbers-desc {
+    font-family: "Mona-Sans";
+    font-size: 20px;
+    font-weight: 400;
+}
+.testemonial {
+    margin: 50px;
+}
+.head {
+    font-family: "Hubot-sans";
+    font-size: 60px;
+    font-weight: 900;
+    line-height: 53.4px;
+}
+.test-text {
+    font-size: 22px;
+    font-weight: 500px;
+}
+.memb-button {
+    background-color: #FF415B ;
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    display: block;
+    border-radius: 10px;
+    transition: background-color 0.3s ease;
+    border-color: white;
+    margin-bottom: 20px;
+}
+.memb-button:hover {
+    background-color: #F4CB38;
+    color: black;
+}
